@@ -5,6 +5,7 @@ public class Main {
 	//Nueva versión!!!!  
 	System.out.println("Computando");
         Salida.escribir();
+	System.out.println("Victor cara papa");
         System.out.println("Fin de programa");
         System.out.println("Fin");
     }
